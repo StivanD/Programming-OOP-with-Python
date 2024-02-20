@@ -1,6 +1,6 @@
 # Programming-OOP-with-Python
 
-Here are solutions of all exercises from **Python OOP** - the second module of the **Python Advanced** course by **Softuni** (Software University)
+Here are the solutions of all exercises from **Python OOP** - the second module of the **Python Advanced** course by **Softuni** (Software University)
 
 SoftUni - https://softuni.bg/
 
